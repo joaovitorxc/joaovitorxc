@@ -1,6 +1,6 @@
  👩🏻‍💻 João Xavier
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo João Vitor Xavier de Carvalho, tenho 17 anos e sou natural de São Paulo. Estou finalizando o ensino médio na Etec Maria Cristina Medeiros, com o curso técnico em informática. Atualmente, estou cursando Informática para Internet. Sou apaixonado por tecnologia desde sempre e agora tenho a oportunidade de aprender cada vez mais. Este github serve para projetos escolares e projetos pessoais.
 
