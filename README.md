@@ -3,6 +3,7 @@
 **`Back-end Developer`**
 
 My name is João Vitor Xavier de Carvalho, I’m 17 years old, and I’m from São Paulo. I’m finishing high school at Etec Maria Cristina Medeiros, where I’m completing a technical course in Computer Science. Currently, I’m studying Internet Computing. I’ve been passionate about technology for as long as I can remember, and I’m excited to keep learning and improving my skills. This GitHub is used to share both school projects and personal projects.
+
 ---
 
  🤖 Linguagens e Tecnologias
