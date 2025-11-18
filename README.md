@@ -63,9 +63,19 @@ Me chamo João Vitor Xavier de Carvalho, tenho 17 anos e sou natural de São Pau
     alt="Flask" 
     title="Flask"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
 />         
+
+ <img 
+    align="left" 
+    alt="MySQL" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>         
+
 <br/>
 <br/>
 
