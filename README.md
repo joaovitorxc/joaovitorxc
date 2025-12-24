@@ -68,15 +68,6 @@ My name is João Vitor Xavier de Carvalho, I’m 17 years old, and I’m from S�
 />         
 
 
-<img 
-    align="left" 
-    alt="Ruby" 
-    title="Ruby"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" 
-/>         
-
  <img 
     align="left" 
     alt="MySQL" 
@@ -97,23 +88,4 @@ My name is João Vitor Xavier de Carvalho, I’m 17 years old, and I’m from S�
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaovitorxc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorxc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+#
