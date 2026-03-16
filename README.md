@@ -2,7 +2,7 @@
 
 **`Back-end Developer`**
 
-Meu nome é João Vitor Xavier de Carvalho, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na Etec Maria Cristina Medeiros (MCM), junto com o curso técnico em Informática. Atualmente, estou matriculado em Inteligência Artificial na FIAP. Sempre fui apaixonado por tecnologia e sigo focado no aprendizado de C# e React, com o objetivo de ampliar meu portfólio e desenvolver conhecimentos voltados ao mercado de trabalho. Este GitHub é utilizado para compartilhar projetos acadêmicos e projetos pessoais.
+Meu nome é João Vitor Xavier de Carvalho, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Etec Maria Cristina Medeiros (MCM), junto com o curso técnico em Informática. Atualmente, estou matriculado em Inteligência Artificial na FIAP. Sempre fui apaixonado por tecnologia e sigo focado no aprendizado de Python, com o objetivo de ampliar meu portfólio e desenvolver conhecimentos voltados ao mercado de trabalho. Este GitHub é utilizado para compartilhar projetos acadêmicos e projetos pessoais.
 
 ---
 
