@@ -67,10 +67,6 @@ Conhecimentos: Python e SQL (intermediário) · Excel (básico) · Power BI (em 
   <img alt="Sequência de contribuições de João Xavier" src="https://streak-stats.demolab.com/?user=joaovitorxc&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
-## 📅 Gráfico de atividades
-<p align="center">
-  <img alt="Gráfico de atividades recentes de João Xavier" src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitorxc&amp;theme=tokyo-night&amp;hide_border=true" />
-</p>
 ---
 🎓 Certificação: Data Modeling — FIAP Nano Course
 ---
