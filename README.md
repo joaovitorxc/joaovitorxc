@@ -1,9 +1,11 @@
 
 # 👨🏻‍💻 João Xavier
 
-**`Back-end Developer`**
+**`Back-end Developer | Data Analytics`**
 
-Meu nome é João Vitor Xavier de Carvalho, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Etec Maria Cristina Medeiros (MCM), junto com o curso técnico em Informática. Atualmente, curso Inteligência Artificial na FIAP. Tenho experiência em projetos com **Python, Flask, SQL, bancos de dados e análise de dados**, além de conhecimentos iniciais em **Docker, MongoDB e AWS**. Utilizo este GitHub para compartilhar meus projetos acadêmicos e pessoais.
+Meu nome é João Vitor Xavier de Carvalho, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Etec Maria Cristina Medeiros (MCM), junto com o curso técnico em Informática. Atualmente, curso Inteligência Artificial na FIAP.
+
+Tenho experiência em projetos com **Python, Flask, SQL, bancos de dados e análise de dados**, além de conhecimentos em **C++, Docker, MongoDB e AWS**. Utilizo este GitHub para compartilhar meus projetos acadêmicos e pessoais.
 
 ---
 
@@ -14,6 +16,7 @@ Meu nome é João Vitor Xavier de Carvalho, tenho 18 anos e sou de São Paulo. C
   <img alt="CSS" title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="PHP" title="PHP" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="C++" title="C++" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Git" title="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Python" title="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Flask" title="Flask" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
@@ -26,6 +29,12 @@ Meu nome é João Vitor Xavier de Carvalho, tenho 18 anos e sou de São Paulo. C
   <img alt="Postman" title="Postman" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </p>
 
+<br clear="both">
+
+---
+
 **📊 Outros conhecimentos:** Python e SQL (intermediário) · Excel (básico) · Power BI (em aprendizado) · Análise e visualização de dados
+
+**☁️ Cloud e ferramentas:** AWS · Docker · Git/GitHub · APIs REST
 
 **🎓 Certificação:** Data Modeling — FIAP Nano Course
