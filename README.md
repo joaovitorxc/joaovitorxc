@@ -1,41 +1,123 @@
-👨‍💻 João Vitor Xavier de Carvalho
-Desenvolvimento Back-end | Dados | Inteligência Artificial
-Sou estudante de Inteligência Artificial na FIAP e formado em Informática para Internet pela ETEC. Desenvolvo projetos com Python, SQL, PostgreSQL, APIs REST, análise e visualização de dados.
+👨🏻‍💻 João Xavier
+Back-end Developer
 
-Tenho interesse em MIS, Business Intelligence e automação de processos. Este perfil reúne projetos acadêmicos e pessoais que mostram minha evolução em tecnologia.
-🛠️ Linguagens e tecnologias
-<p>
-  <img alt="Python" title="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="PostgreSQL" title="PostgreSQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" title="MySQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="Pandas" title="Pandas" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img alt="Matplotlib" title="Matplotlib" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  <img alt="Flask" title="Flask" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-  <img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img alt="HTML" title="HTML" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="PHP" title="PHP" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-</p>
+Meu nome é João Vitor Xavier de Carvalho, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Etec Maria Cristina Medeiros (MCM), junto com o curso técnico em Informática. Atualmente, curso Inteligência Artificial na FIAP. Tenho experiência em projetos com Python, Flask, SQL, bancos de dados e análise de dados, além de conhecimentos iniciais em Docker, MongoDB e AWS. Utilizo este GitHub para compartilhar meus projetos acadêmicos e pessoais.
+🤖 Linguagens e Tecnologias
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    align="left"
+    alt="Flask"
+    title="Flask"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img
+    align="left"
+    alt="MongoDB"
+    title="MongoDB"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+/>
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+<img
+    align="left"
+    alt="AWS"
+    title="AWS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Pandas"
+    title="Pandas"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
+<img
+    align="left"
+    alt="Postman"
+    title="Postman"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+<br clear="both" />
 
-📊 Competências técnicas
-- Python (intermediário): Pandas, Matplotlib, manipulação de dados, scripts e APIs com Flask.
-- SQL (intermediário): JOINs, agrupamentos, consultas e operações CRUD.
-- Bancos de dados: PostgreSQL, MySQL, Supabase e modelagem de dados.
-- Análise de dados: exploração de datasets, criação de gráficos e relatórios acadêmicos.
-- Back-end: Flask, APIs REST, JSON, integrações e Swagger.
-- Cloud e ferramentas: AWS Lambda, Amazon RDS, Git, GitHub, VS Code.
-- Excel: básico.
-- Power BI: em aprendizado.
-- Outras tecnologias estudadas: HTML, CSS, JavaScript e PHP.
-🎓 Formação e certificações
-- FIAP: graduação em Inteligência Artificial (em andamento).
-- ETEC: técnico em Informática para Internet (concluído).
-- FIAP Nano Course: certificado em Data Modeling.
-🚀 Projetos
-Gestor de Contratos com IA: back-end e integração de API REST usando Python, Flask, PostgreSQL e AWS, com documentação Swagger. Projeto de análise de cláusulas contratuais.
 
-Rede Alimenta IA: módulos de acesso a dados, cadastro e consulta de doadores com Python, PostgreSQL e Supabase.
+📊 Outros conhecimentos: Python e SQL (intermediário) · Excel (básico) · Power BI (em aprendizado) · Análise e visualização de dados
 
-Análise e visualização de dados: projetos acadêmicos envolvendo Python, exploração de datasets, gráficos e interpretação de resultados.
+🎓 Certificação: Data Modeling — FIAP Nano Course
